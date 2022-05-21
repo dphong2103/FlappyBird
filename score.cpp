@@ -1,18 +1,17 @@
 void countScore()
 {
     for (vector<Sprite>::iterator itr = pipes.begin(); itr != pipes.end(); itr++) {
-			if (game.gameState == started && (*itr).getPosition().x == 250) {
-				game.score++;
-				sounds.ching.play();
+        if (game.gameState == started && (*itr).getPosition().x == 250) {
+            game.score++;
+            sounds.ching.play();
 
-				if (game.score > game.highscore) {
-					game.highscore = game.score;
-				}
+            if (game.score > game.highscore) {
+                game.highscore = game.score;
+            }
 
-				break;
-			}
-		}
-
+            break;
+        }
+    }
 }
 
 void updateScore()
