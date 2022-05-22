@@ -3,7 +3,7 @@
 void loadTexture()
 {
     //load textures
-    textures.background.loadFromFile("./images/background.png");
+    textures.background.loadFromFile("./images/impossible.png");
 	textures.pipe.loadFromFile("./images/pipe.png");
 	textures.gameover.loadFromFile("./images/gameover.png");
 	textures.flappy[0].loadFromFile("./images/flappy1.png");
