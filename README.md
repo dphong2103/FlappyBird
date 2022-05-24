@@ -7,7 +7,7 @@
     
     • Cài đặt `SFML` cho `Code Block`
     
-    • Chạy file `main.exe`
+    • Build file `main.cpp`
     
 2. Mô tả chung
 
