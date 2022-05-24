@@ -51,9 +51,9 @@
     
 5. Kết luận
     
-    -Điều tâm đắc: Đã vận dụng được kiến thức trong khóa Lập trình nâng cao và tự tìm hiểu để tạo được một game cơ bản.
+    • Điều tâm đắc: Đã vận dụng được kiến thức trong khóa Lập trình nâng cao và tự tìm hiểu để tạo được một game cơ bản.
     
-    -Hướng phát triển:
+    • Hướng phát triển:
     
         • Thêm các chế độ cho game (Easy, Medium, Hard)
         
