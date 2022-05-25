@@ -1,5 +1,5 @@
 # FlappyBird
-##1. Hướng dẫn cài đặt
+1. Hướng dẫn cài đặt
 
     • Folk về your repo
     
@@ -9,7 +9,7 @@
     
     • Build file `main.cpp`
     
-##2. Mô tả chung
+2. Mô tả chung
 
     • Người chơi dùng phím `Space` để điều khiển Flappy đi qua các ống nước.
     
@@ -19,7 +19,7 @@
     
     • Mục tiêu trò chơi là đạt được số điểm cao nhất có thể.
     
-##3. Các chức năng
+3. Các chức năng
 
     • Video minh họa [Link](http://https://youtu.be/C1cVrsH4b0A)
 
@@ -35,7 +35,7 @@
     
     • Cài đặt logic va chạm và tính điểm
     
-##4. Các kỹ thuật lập trình
+4. Các kỹ thuật lập trình
 
     • Thư viện đồ họa `SFML`: Hiển thị ảnh, chữ, phát âm thanh.
     
@@ -49,7 +49,7 @@
     
     • Chia code thành các file
     
-##5. Kết luận
+5. Kết luận
     
     • Điều tâm đắc: Đã vận dụng được kiến thức trong khóa Lập trình nâng cao và tự tìm hiểu để tạo được một game cơ bản.
     
