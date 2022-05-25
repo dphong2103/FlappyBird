@@ -21,7 +21,7 @@
     
 3. Các chức năng
 
-    • Video minh họa [Link](http://https://youtu.be/C1cVrsH4b0A)
+    • Video minh họa [Link](https://www.youtube.com/watch?v=C1cVrsH4b0A&ab_channel=PhongB%C3%B9i%C4%90%E1%BA%B7ng%C4%90%E1%BB%A9c)
 
     • Cài đặt màn hình chính 
     
