@@ -62,6 +62,12 @@
         • Thêm nhiều giao diện cho game, hình ảnh Flappy, ống, background đa dạng
         
         • Thêm các tính năng cho Flappy như khiên chắn, xóa ống, bất tử,...
+    
+6. Nguồn tham khảo
+    
+    • Về thư viện đồ họa `SFML`: [Link](https://www.sfml-dev.org/tutorials/2.5/)
+    
+    • Về cách triển khai các kỹ thuật: [Link](https://www.youtube.com/watch?v=mLVPY_B3dRU&list=PLZd7ojlRK0byXW3dd-HnucM34JnCPyNkn&ab_channel=CLBL%E1%BA%ADpTr%C3%ACnhPTIT)
        
         
 
