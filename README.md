@@ -62,6 +62,8 @@
         • Thêm nhiều giao diện cho game, hình ảnh Flappy, ống, background đa dạng
         
         • Thêm các tính năng cho Flappy như khiên chắn, xóa ống, bất tử,...
+        
+        • Random khoảng cách giữa các ống từ dễ đến khó
     
 6. Nguồn tham khảo
     
