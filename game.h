@@ -4,7 +4,7 @@ enum GameState {waiting, // waiting = game not started yet
                 started, // started = playing
                 gameover }; // gameover = game is over
 
-// game settings in game struct
+// game settings in singleton game struct
 // frames counts total frames passed since the beginning of time
 struct Game {
     int score = 0;
@@ -16,5 +16,6 @@ struct Game {
     Text pressC;
     Text scoreText;
     Text highscoreText;
+    Text guide;
     Font font;
 } game;

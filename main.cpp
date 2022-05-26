@@ -104,6 +104,11 @@ int main() {
 		window.draw(game.scoreText);
 		window.draw(game.highscoreText);
 
+		//draw guide
+		if (game.gameState == waiting) {
+			window.draw(game.guide);
+		}
+
 		// draw game over
 		if (game.gameState == gameover) {
 			window.draw(game.gameover);
